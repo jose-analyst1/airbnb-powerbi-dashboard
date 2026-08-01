@@ -51,6 +51,21 @@ El análisis incluye:
 - La política de estancia mínima de 11 noches reduce costes operativos.
 
 ---
+## Dashboard Ejecutivo
+
+![Dashboard](Dashboard.png)
+
+---
+
+## Simulador de ingresos
+
+![Price Simulator](Price_Simulator.png)
+
+---
+
+## Recomendaciones de negocio
+
+![Business Recommendations](Business_Recommendations.png)
 
 ## Autor
 
